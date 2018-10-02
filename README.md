@@ -1,2 +1,2 @@
 # disasterID
-Projek-projek penelitian terkait dengan tema kebencanaan yang dilakukan berkolaborasi antara dosen dan mahasiswa di Program Studi Teknik Informatika UAJY
+Projek-projek penelitian terkait tema kebencanaan yang dilakukan oleh dosen dan mahasiswa di Program Studi Teknik Informatika UAJY
