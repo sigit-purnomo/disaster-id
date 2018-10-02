@@ -1,5 +1,5 @@
 # DisasterID
-Projek-projek penelitian terkait tema kebencanaan yang dilakukan oleh dosen dan mahasiswa di Program Studi Teknik Informatika UAJY
+DisasterID merupakan repository projek-projek penelitian terkait tema kebencanaan yang dilakukan oleh dosen dan mahasiswa di Program Studi Teknik Informatika UAJY. Anda dapat memanfaatkan repository yang ada.
 
 # 1. Sistem Manajemen Situasi Bencana 
 
