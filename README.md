@@ -7,4 +7,4 @@ Sistem Manajemen Situasi Bencana merupakan perangkat lunak yang dikembangkan unt
 
 Aplikasi ini dikembangkan oleh Heryatmo Benediktus Sembiring (14 07 07895) dengan bimbingan Y. Sigit Purnomo W.P. dan Eddy Julianto. 
 
-Informasi lebih lengkap dapat dibaca di sini sistem-manajemen-situasi-bencana.md
+Informasi lebih lengkap dapat dibaca di sini(sistem-manajemen-situasi-bencana.md).
