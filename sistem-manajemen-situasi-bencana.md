@@ -2,7 +2,7 @@
 
 # 1. Aplikasi Web 
 Aplikasi berbasis web akan digunakan oleh admin untuk megelola data bencana dan data user yang akan dimasukkan dalam aplikasi mobile. Perangkat lunak web Manajemen Situasi Bencana ini berjalan pada web browser, dibuat menggunakan bahasa pemrograman PHP dengan memanfaatkan Laravel framework sebagai back-end.
-## Github Repository: https://github.com/heryatmo/msb_laravel
+Github Repository: https://github.com/heryatmo/msb_laravel
 
 # 1.1. Fungsionalistas
 
@@ -13,6 +13,7 @@ Aplikasi berbasis web akan digunakan oleh admin untuk megelola data bencana dan 
 
 # 2. Aplikasi Mobile 
 Aplikasi mobile digunakan oleh pengelola shelter (posko) dalam kegiatan pemantauan situasi dan kondisi pada shelter (posko) melalui tampilan data-data donasi, pengungsi serta petugas shelter (posko). Aplikasi mobile juga digunakan oleh relawan. Aplikasi mobile Manajemen Situasi Bencana berjalan pada smartphone dengan sistem operasi Android. Aplikasi mobile ini dibuat dengan bahasa pemrograman Java dengan memanfaatkan Android Studio untuk pemrogramannya.
+Github Repository: https://github.com/heryatmo/msb_mob
 
 # 2.1. Fungsionalistas
 
