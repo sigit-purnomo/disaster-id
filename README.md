@@ -1,5 +1,5 @@
 # DisasterID
-DisasterID merupakan repository projek-projek penelitian terkait tema kebencanaan yang dilakukan oleh dosen dan mahasiswa di Program Studi Teknik Informatika UAJY. Anda dapat memanfaatkan repository yang ada.
+DisasterID merupakan repository projek-projek penelitian terkait tema kebencanaan yang dilakukan oleh dosen dan mahasiswa di Program Studi Teknik Informatika UAJY. Anda dapat memanfaatkan repository yang ada dan semoga repository ini dapat berguna dalam penanganan bencana di Indonesia.
 
 ---
 
