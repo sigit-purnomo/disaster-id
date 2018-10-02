@@ -4,9 +4,11 @@ DisasterID merupakan repository projek-projek penelitian terkait tema kebencanaa
 ---
 
 ## 1. Sistem Manajemen Situasi Bencana 
-
+### Deskripsi Sistem
 Sistem Manajemen Situasi Bencana merupakan perangkat lunak yang dikembangkan untuk membantu pengelola shelter (posko) untuk memantau situasi dan kondisi shelter (posko) di daerah bencana secara online. Sistem ini dibangun menjadi 2 sub sistem yaitu aplikasi berbasis web untuk admin dan aplikasi yang berbasis mobile untuk pengelola shelter (posko) dan relawan.
-
+### Pengembang Sistem
 Aplikasi ini dikembangkan oleh Heryatmo Benediktus Sembiring (14 07 07895) dengan bimbingan Y. Sigit Purnomo W.P. dan Eddy Julianto. 
-
+### Informasi tentang Sistem
 Informasi lebih lengkap dapat dibaca di [sini](sistem-manajemen-situasi-bencana.md).
+
+---
