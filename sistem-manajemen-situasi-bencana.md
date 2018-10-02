@@ -1,8 +1,9 @@
 # Sistem Manajemen Situasi Bencana
 
 # 1 Aplikasi Web 
+Aplikasi berbasis web akan digunakan oleh admin untuk megelola data bencana dan data user yang akan dimasukkan dalam aplikasi mobile. Perangkat lunak web Manajemen Situasi Bencana ini berjalan pada web browser, dibuat menggunakan bahasa pemrograman PHP dengan memanfaatkan Laravel framework sebagai back-end.
 
-# Fungsionalistas
+# 1.1. Fungsionalistas
 
 | No | Fitur | Deskripsi Fitur |
 | ------------- | ------------- | ------------- |
