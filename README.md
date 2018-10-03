@@ -9,7 +9,7 @@ Sistem yang dibangun dapat digunakan oleh pihak BPBD atau pihak lain guna melaku
 ### 1.2. Pengembang Sistem
 Aplikasi ini dikembangkan oleh Irvan (11 07 06694) dengan bimbingan Kusworo Anindito dan Th. Devi Indriasari. 
 ### 1.3. Informasi tentang Sistem
-Informasi lebih lengkap dapat dibaca di [sini](sistem-pencatatan-data-bencana-dan-posko.md).
+Informasi lebih lengkap dapat dibaca di [sini](https://github.com/sigit-purnomo/sistem-pencatatan-data-bencana-dan-posko/blob/master/README.md).
 
 ---
 
