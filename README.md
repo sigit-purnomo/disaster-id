@@ -13,12 +13,22 @@ Informasi lebih lengkap dapat dibaca di [sini](https://github.com/sigit-purnomo/
 
 ---
 
-## 2. Sistem Manajemen Situasi Bencana 
+## 2. Sistem Pelaporan Bencana Alam 
 ### 2.1. Deskripsi Sistem
-Sistem Manajemen Situasi Bencana merupakan perangkat lunak yang dikembangkan untuk membantu pengelola shelter (posko) untuk memantau situasi dan kondisi shelter (posko) di daerah bencana secara online. Sistem ini dibangun menjadi 2 sub sistem yaitu aplikasi berbasis web untuk admin dan aplikasi yang berbasis mobile untuk pengelola shelter (posko) dan relawan.
+Sistem yang dibangun dapat digunakan untuk melakukan pemetaan sebaran pengungsi bencana alam, pembuatan laporan, dan pendataan terhadap data bencana alam dan data pengungsi bencana alam.
 ### 2.2. Pengembang Sistem
-Aplikasi ini dikembangkan oleh Heryatmo Benediktus Sembiring (14 07 07895) dengan bimbingan Y. Sigit Purnomo W.P. dan Eddy Julianto. 
+Aplikasi ini dikembangkan oleh Nana Tambayong (11 07 06477) dengan bimbingan Findra Kartikasari dan Th. Devi Indriasari. 
 ### 2.3. Informasi tentang Sistem
+Informasi lebih lengkap dapat dibaca di [sini](https://github.com/sigit-purnomo/sistem-pelaporan-bencana-alam/blob/master/README.md).
+
+---
+
+## 3. Sistem Manajemen Situasi Bencana 
+### 3.1. Deskripsi Sistem
+Sistem Manajemen Situasi Bencana merupakan perangkat lunak yang dikembangkan untuk membantu pengelola shelter (posko) untuk memantau situasi dan kondisi shelter (posko) di daerah bencana secara online. Sistem ini dibangun menjadi 2 sub sistem yaitu aplikasi berbasis web untuk admin dan aplikasi yang berbasis mobile untuk pengelola shelter (posko) dan relawan.
+### 3.2. Pengembang Sistem
+Aplikasi ini dikembangkan oleh Heryatmo Benediktus Sembiring (14 07 07895) dengan bimbingan Y. Sigit Purnomo W.P. dan Eddy Julianto. 
+### 3.3. Informasi tentang Sistem
 Informasi lebih lengkap dapat dibaca di [sini](sistem-manajemen-situasi-bencana.md).
 
 ---
