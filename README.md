@@ -5,7 +5,7 @@ DisasterID merupakan repository projek-projek penelitian terkait tema kebencanaa
 
 ## 1. Sistem Pencatatan Data Bencana dan Posko 
 ### 1.1. Deskripsi Sistem
-Sistem yang dibangun dapat digunakan oleh pihak BPBD atau pihak lain guna melakukan pencatatan data bencana maupun posko, dimana hasilnya dapat dikirim langsung dalam bentuk pesan singkat (SMS) ke nomor tujuan lewat perantara media SMS Gateway. Informasi yang terkandung dalam pesan singkat yang diterima, akan disimpan dalam basis data lokal. Aplikasi yang dibangun tersebut juga dapat digunakan oleh pihak BPBD guna melakukan pengelolaan data petugas serta pengelolaan data pesan.
+Sistem yang dibangun dapat digunakan oleh pihak BPBD atau pihak lain guna melakukan pencatatan data bencana maupun posko melalui aplikasi Android, dimana hasilnya dapat dikirim langsung dalam bentuk pesan singkat (SMS) ke nomor tujuan lewat perantara media SMS Gateway. Informasi yang terkandung dalam pesan singkat yang diterima, akan disimpan dalam basis data lokal. Aplikasi yang dibangun tersebut juga dapat digunakan oleh pihak BPBD guna melakukan pengelolaan data petugas serta pengelolaan data pesan.
 ### 1.2. Pengembang Sistem
 Aplikasi ini dikembangkan oleh Irvan (11 07 06694) dengan bimbingan Kusworo Anindito dan Th. Devi Indriasari. 
 ### 1.3. Informasi tentang Sistem
