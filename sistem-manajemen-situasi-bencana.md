@@ -16,7 +16,7 @@ Github Repository: https://github.com/heryatmo/msb_laravel
 
 ## 2. Aplikasi Mobile 
 Aplikasi mobile digunakan oleh pengelola shelter (posko) dalam kegiatan pemantauan situasi dan kondisi pada shelter (posko) melalui tampilan data-data donasi, pengungsi serta petugas shelter (posko). Aplikasi mobile juga digunakan oleh relawan. Aplikasi mobile Manajemen Situasi Bencana berjalan pada smartphone dengan sistem operasi Android. Aplikasi mobile ini dibuat dengan bahasa pemrograman Java dengan memanfaatkan Android Studio untuk pemrogramannya.
-Github Repository: https://github.com/heryatmo/msb_mob
+Github Repository: https://github.com/heryatmo/msb_mob/tree/master/app
 
 ### 2.1. Fungsionalistas
 
